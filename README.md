@@ -4,4 +4,4 @@ hmtl,
 css,
 javascript
 
-![view](https://github.com/ffurkaner/escape-button/blob/main/screen.png)
+![view](https://media.giphy.com/media/yT94CiBBQMw4s2rYs2/giphy.gif)
